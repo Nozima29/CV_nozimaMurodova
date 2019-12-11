@@ -19,7 +19,7 @@ Currently employed as Sytem Administartor in Global Textile Solutions
 
 # Achievements
  Winner of GKS2019 (Global Korean Scholarship) for Central Asian Undergraduate Students supported by National Institude for International Education
- [Certificate](https://drive.google.com/drive/u/0/folders/1yMgHgzhBL5t6JGcgu1sUJzqdochh3TR)
+ (Certificate)=(https://drive.google.com/drive/u/0/folders/1yMgHgzhBL5t6JGcgu1sUJzqdochh3TR)
 
 # Personal profile:
       Birthdate:			   July 29, 1998
