@@ -8,12 +8,12 @@ Address: Tashkent region, Almalyk town, Sh.Rashidov str.
 https://github.com/Nozima29/
 
 Phone:+998936055106  
-Email: @nozima.9813@gmail.com
+Email: nozima.9813@gmail.com
 
 Currently employed as Sytem Administartor in Global Textile Solutions
  
 # Languages
-     English – fluent (<a href="https://drive.google.com/drive/u/0/my-drive">IELTS - 6.5</a> 
+     English – fluent IELTS This site was built using [GitHub Pages](https://pages.github.com/)
      Russian - independent
      Korean - basic
 
