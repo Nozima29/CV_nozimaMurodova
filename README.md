@@ -13,13 +13,13 @@ Email: nozima.9813@gmail.com
 Currently employed as Sytem Administartor in Global Textile Solutions
  
 # Languages
-     English – fluent [IELTS](https://drive.google.com/drive/u/0/my-drive)
+     English – fluent 
      Russian - independent
      Korean - basic
 
 # Achievements
  Winner of GKS2019 (Global Korean Scholarship) for Central Asian Undergraduate Students supported by National Institude for International Education
- (Certificate)=(https://drive.google.com/drive/u/0/folders/1yMgHgzhBL5t6JGcgu1sUJzqdochh3TR)
+ 
 
 # Personal profile:
       Birthdate:			   July 29, 1998
@@ -31,11 +31,11 @@ Currently employed as Sytem Administartor in Global Textile Solutions
   
 # Educational profile
 
-      Secondary education:	Almalyk secondary school №4, Almalyk Mining Professional College.
+      - Secondary education:	Almalyk secondary school №4, Almalyk Mining Professional College.
 
-      High education:	Inha University in Tashkent, 3rd year (junior).
+      - High education:	Inha University in Tashkent, 3rd year (junior).
 
-      Faculty:	Computer science and Software Engineering.
+      - Faculty:	Computer science and Software Engineering.
 
 # Acquired skills: 	
       c++      
@@ -45,7 +45,7 @@ Currently employed as Sytem Administartor in Global Textile Solutions
       React js                      
 
 # Experience:                           
-      English tutor – Monday        education (2017)
+      English tutor – Monday education (2017)
       Content-manager - InterIntellect (2018)
       Backend developer intern – ZetSoft (2019)
       System administrator – Global Textile solutions (2019 –present)
