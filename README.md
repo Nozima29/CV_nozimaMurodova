@@ -13,13 +13,13 @@ Email: nozima.9813@gmail.com
 Currently employed as Sytem Administartor in Global Textile Solutions
  
 # Languages
-     English – fluent IELTS This site was built using [GitHub Pages](https://pages.github.com/)
+     English – fluent [IELTS](https://drive.google.com/drive/u/0/my-drive)
      Russian - independent
      Korean - basic
 
 # Achievements
  Winner of GKS2019 (Global Korean Scholarship) for Central Asian Undergraduate Students supported by National Institude for International Education
- @https://drive.google.com/drive/u/0/folders/1yMgHgzhBL5t6JGcgu1sUJzqdochh3TR_
+ [Certificate](https://drive.google.com/drive/u/0/folders/1yMgHgzhBL5t6JGcgu1sUJzqdochh3TR)
 
 # Personal profile:
       Birthdate:			   July 29, 1998
