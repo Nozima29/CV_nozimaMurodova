@@ -13,34 +13,35 @@ Email: @nozima.9813@gmail.com
 Currently employed as Sytem Administartor in Global Textile Solutions
  
 # Languages
-English – fluent 
-Russian - independent
-Korean - basic
+     English – fluent 
+     Russian - independent
+     Korean - basic
 
 # Achievements
-Winner of GKS2019 (Global Korean Scholarship) for Central Asian Undergraduate Students supported by National Institude for International Education
+ Winner of GKS2019 (Global Korean Scholarship) for Central Asian Undergraduate Students supported by National Institude for International Education
 
 # Personal profile:
-  Birthdate:			July 29, 1998
-  Age:				    21
-  Marital Status:	single
-  Hobbies:        Fantastic films, detective and mystery books.	
-  Interests:      Computer technologies, coding, solving mathematical algorithms.
-  Personal characteristics:	Easygoing, trustworthy, eager.
+      Birthdate:			July 29, 1998
+      Age:				    21
+      Marital Status:	single
+      Hobbies:        Fantastic films, detective and mystery books.	
+      Interests:      Computer technologies, coding, solving mathematical algorithms.
+      Personal characteristics:	Easygoing, trustworthy, eager.
   
 # Educational profile
 
-Secondary education:	Almalyk secondary school №4, Almalyk Mining Professional College.
+      Secondary education:	Almalyk secondary school №4, Almalyk Mining Professional College.
 
-High education:	Inha University in Tashkent, 3rd year (junior).
+      High education:	Inha University in Tashkent, 3rd year (junior).
 
-Faculty:	Computer science and Software Engineering.
+      Faculty:	Computer science and Software Engineering.
 
-# Acquired skills: 	c++      
-                  Java/android
-                  Php/laravel/yii2       
-                  Html/css                  
-                  React js                      
+# Acquired skills: 	
+      c++      
+      Java/android
+      Php/laravel/yii2       
+      Html/css                  
+      React js                      
 
 # Experience:                           
       English tutor – Monday        education (2017)
