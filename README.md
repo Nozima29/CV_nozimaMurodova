@@ -21,12 +21,12 @@ Currently employed as Sytem Administartor in Global Textile Solutions
  Winner of GKS2019 (Global Korean Scholarship) for Central Asian Undergraduate Students supported by National Institude for International Education
 
 # Personal profile:
-      Birthdate:			July 29, 1998
-      Age:				    21
+      Birthdate:			   July 29, 1998
+      Age:				        21
       Marital Status:	single
       Hobbies:        Fantastic films, detective and mystery books.	
       Interests:      Computer technologies, coding, solving mathematical algorithms.
-      Personal characteristics:	Easygoing, trustworthy, eager.
+      Personal traits:Easygoing, trustworthy, eager.
   
 # Educational profile
 
