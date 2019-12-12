@@ -22,12 +22,12 @@ Currently employed as Sytem Administartor in Global Textile Solutions
  
 
 # Personal profile:
-      Birthdate:			   July 29, 1998
-      Age:				        21
-      Marital Status:	single
-      Hobbies:        Fantastic films, detective and mystery books.	
-      Interests:      Computer technologies, coding, solving mathematical algorithms.
-      Personal traits:Easygoing, trustworthy, eager.
+      Birthdate: July 29, 1998
+      Age: 21
+      Marital Status: single
+      Hobbies: Fantastic films, detective and mystery books.	
+      Interests: Computer technologies, coding, solving mathematical algorithms.
+      Personal traits: Easygoing, trustworthy, eager.
   
 # Educational profile
 
