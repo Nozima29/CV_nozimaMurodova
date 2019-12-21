@@ -18,8 +18,9 @@ Currently employed as Sytem Administartor in Global Textile Solutions
      Korean - basic
 
 # Achievements
-    Winner of GKS2019 (Global Korean Scholarship) for Central Asian Undergraduate Students supported by National Institude for        International Education
-    Winner in Open Data Challange 2019 - 1st place in public sector
+    - Winner of GKS2019 (Global Korean Scholarship) for Central Asian Undergraduate Students supported by National 
+    Institude forInternational Education
+    - Winner in Open Data Challange 2019 - 1st place in public sector
  
 
 # Personal profile:
