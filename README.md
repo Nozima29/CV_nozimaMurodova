@@ -18,7 +18,8 @@ Currently employed as Sytem Administartor in Global Textile Solutions
      Korean - basic
 
 # Achievements
- Winner of GKS2019 (Global Korean Scholarship) for Central Asian Undergraduate Students supported by National Institude for International Education
+    Winner of GKS2019 (Global Korean Scholarship) for Central Asian Undergraduate Students supported by National Institude for        International Education
+    Winner in Open Data Challange 2019 - 1st place in public sector
  
 
 # Personal profile:
@@ -32,9 +33,7 @@ Currently employed as Sytem Administartor in Global Textile Solutions
 # Educational profile
 
       - Secondary education:	Almalyk secondary school №4, Almalyk Mining Professional College.
-
       - High education:	Inha University in Tashkent, 3rd year (junior).
-
       - Faculty:	Computer science and Software Engineering.
 
 # Acquired skills: 	
