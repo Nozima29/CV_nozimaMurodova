@@ -47,7 +47,7 @@ Currently employed as Backend developer intern in Beeline Uzbekistan
 # Experience:                                 
       Content-manager - InterIntellect (2018)
       Backend developer intern – ZetSoft (2019)
-      System administrator – Global Textile solutions (2019)
+      System administrator – Rieter Uzbekistan (2019)
       Backend developer intern - Beeline Uzbekistan (2019 - now)
                                                    	
 
