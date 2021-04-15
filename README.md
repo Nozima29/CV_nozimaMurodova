@@ -4,7 +4,7 @@
 
 [CV](https://drive.google.com/file/d/1EL7N1scvE1GkIACeojzJK-oKtDvdlvyj/view?usp=sharing)
 
-[Email](https://nozima.9813@gmail.com) | [LinkedIn](linkedin.com/in/nozima29)
+[Email](https://nozima.9813@gmail.com) | [LinkedIn](https://linkedin.com/in/nozima29)
  
 # Skills
 * Languages: **C/C++**, **Python**, **Javascript**, **SQL**
