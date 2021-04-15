@@ -14,17 +14,17 @@
 * Others: **Version Control System**, **ML/DL amateur**
 
 # Experience
-### Software developer - intern
+## Software developer - intern
 > Technologies: python/django, Js/JQuery, nginx 
 
 #### Unitel LLC (Beeline Uzbekistan), June, 2020-present
-#### * Develop system applications in django
-#### * Autotests
+* Develop system applications in django
+* Autotests
 
 
-### Backend developer - freelance
+## Backend developer - freelance
 #### LinkedBits, February, 2021-present
-#### * Web applications in django (ex. [anons.uz](https://anons.uz/ru/))
+* Web applications in django (ex. [anons.uz](https://anons.uz/ru/))
 
 # Education      
 Bachelor: Inha University in Tashkent, 4th year (senior).
