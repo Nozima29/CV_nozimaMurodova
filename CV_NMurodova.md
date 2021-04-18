@@ -2,7 +2,7 @@
 > Inha university in Tashkent
 > Computer Science and Software Engineering
 
-[CV](https://drive.google.com/file/d/1EL7N1scvE1GkIACeojzJK-oKtDvdlvyj/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1NH43WSWQ1zG7J2YIy5odEl2pmO_-yB1c/view)
 
 [Email](https://nozima.9813@gmail.com) | [LinkedIn](https://linkedin.com/in/nozima29)
  
