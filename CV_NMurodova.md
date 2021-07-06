@@ -4,7 +4,7 @@
 
 [CV](https://drive.google.com/file/d/1NH43WSWQ1zG7J2YIy5odEl2pmO_-yB1c/view)
 
-[Email](to:https://nozima.9813@gmail.com) | [LinkedIn](https://linkedin.com/in/nozima29)
+[Email](mailto:nozima.9813@gmail.com) | [LinkedIn](https://linkedin.com/in/nozima29)
  
 # Skills
 * Languages: **C/C++**, **Python**, **Javascript**, **SQL**
@@ -23,8 +23,8 @@
 
 
 ## Backend developer - freelance
-#### LinkedBits, February, 2021-present
-* Web applications in django (ex. [anons.uz](https://anons.uz/ru/))
+#### LinkedBits, 02.2021-present
+* Web applications in django 
 
 # Education      
 Bachelor: Inha University in Tashkent, 4th year (senior).
